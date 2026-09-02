@@ -1,0 +1,19 @@
+module bar
+
+Audio 1.0 Audio.qml
+Backlight 1.0 Backlight.qml
+Bar 1.0 Bar.qml
+BarColors 1.0 BarColors.qml
+Battery 1.0 Battery.qml
+Cava 1.0 Cava.qml
+Clock 1.0 Clock.qml
+Cpu 1.0 Cpu.qml
+Music 1.0 Music.qml
+Network 1.0 Network.qml
+Ram 1.0 Ram.qml
+Updates 1.0 Updates.qml
+singleton UpdatesState 1.0 UpdatesState.qml
+WindowTitle 1.0 WindowTitle.qml
+Workspaces 1.0 Workspaces.qml
+Power 1.0 Power.qml
+Time 1.0 Time.qml
